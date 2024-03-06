@@ -1,0 +1,16 @@
+input{
+    border: black solid 2px;
+    border-radius: 4px;
+    padding-left: 8px;
+    /* font-size: 14px;
+    line-height: 22px; */
+}
+
+input:valid{
+    border-color: green;
+}
+input:invalid{
+    border-color:red;
+}
+
+
